@@ -1,9 +1,8 @@
 # C++ lessons
 
-### description of project
-
-- lessons
-- test 
-- homework 
-
-![Tux, the Linux mascot](https://d33wubrfki0l68.cloudfront.net/e7ed9fe4bafe46e275c807d63591f85f9ab246ba/e2d28/assets/images/tux.png)
+### description of project:
+- First item
+- Second item
+- Third item
+- Fourth item
+https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwizv-nPzY_nAhXfzMQBHZ6SBPcQjRx6BAgBEAQ&url=https%3A%2F%2Ftproger.ru%2Fevents%2Fworking-group-cpp-russia-meeting%2F&psig=AOvVaw2e02L85tcMATApW7FmR_gH&ust=1579521329412144
