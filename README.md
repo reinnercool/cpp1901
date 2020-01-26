@@ -1,7 +1,5 @@
 # C++ lessons
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/200px-ISO_C%2B%2B_Logo.svg.png" width="200" height="200" />
-### description of project:
- *My items starts at 12:00 .I have four parts .I really like C++ courses .*
 
 ## Список уроков:
 | Lesson №  | Name                                                   |	Path            | TIMESTAMP  |
