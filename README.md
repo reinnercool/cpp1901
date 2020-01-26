@@ -1,7 +1,7 @@
 # C++ lessons
 
 ### description of project:
- *My items starts at 12:00.I have four parts. *
+ *My items starts at 12:00 .I have four parts .I really like C++ courses . *
 
 ## Спиок частей урока :
 - First part: 12:00 to 12:30
