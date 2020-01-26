@@ -9,7 +9,8 @@
 - Third part:13:00 to 13:30
 - Fourth part:13:30 to 14:00
 
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/200px-ISO_C%2B%2B_Logo.svg.png" width="200" height="200" />
+
 
 
 > #### The quarterly results look great!
