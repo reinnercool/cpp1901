@@ -3,22 +3,26 @@
 ### description of project:
  *My items starts at 12:00 .I have four parts .I really like C++ courses .*
 
-## Список уроков  :
-- Lesson 1 : 22.09.2019
-- lesson 2 : 29.09.2019
-- lesson 3 : 06.10.2019
-- lesson 4 : 13.10.2019
-- lesson 5 : 20.10.2019
-- lesson 6 : 27.10.2019
-- lesson 7 : 03.11.2019
-- lesson 8 : 10.11.2019
-- lesson 9 : 17.11.2019
-- lesson 10 : 24.11.2019
-- lesson 11 : 01.12.2019
-- lesson 12 : 08.12.2019
-- lesson 13 : 15.12.2019
-- lesson 14 : 22.12.2019
-- lesson 15 : 29.12.2019
+## Список уроков:
+| Lesson №  | Name                                                   |	Path            | TIMESTAMP  |
+|:----------|:-------------------------------------------------------|:----------------:|-----------:|
+| Lesson 1  | Introductin to C++, Hello, world                       | cpp1901/lesson1  | 22.09.2019 |
+| Lesson 2  | Arrays, tasks                                          | cpp1901/lesson2  | 29.09.2019 |
+| Lesson 3  | Types                                                  | cpp1901/lesson3  | 06.10.2019 |
+| Lesson 4  | Math in C++                                            | -                | 13.10.2019 |
+| Lesson 5  | Math functions                                         | cpp1901/lesson5  | 20.10.2019 |
+| Lesson 6  | Functions                                              | cpp1901/lesson6  | 27.10.2019 |
+| Lesson 7  | Tasks, money converter                                 | cpp1901/lesson7  | 03.11.2019 |
+| Lesson 8  | Description not provided                               | -                | 10.11.2019 |
+| Lesson 9  | Strictures in C++, compiling program as multiple files | cpp1901/lesson9  | 17.11.2019 |
+| Lesson 10 | Boolalpha                                              | cpp1901/lesson10 | 24.11.2019 |
+| Lesson 11 | Translate integers, binary, decimal, hexdecimal        | cpp1901/lesson11 | 01.12.2019 |
+| Lesson 12 | Repeat arrays                                          | cpp1901/lesson12 | 08.12.2019 |
+| Lesson 13 | 2D arrays                                              | cpp1901/lesson13 | 15.12.2019 |
+| Lesson 14 | Description not provided	                             | cpp1901/lesson14 | 22.12.2019 |
+| Lesson 15 | Exams                                                  | cpp1901/lesson15 | 29.12.2019 |
+| Lesson 16 | Github                                                 | cpp1901/lesson16 | 19.01.2020 |
+| Lesson 17 | Github                                                 | cpp1901/lesson17 |26.01.2020  |
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/200px-ISO_C%2B%2B_Logo.svg.png" width="200" height="200" />
 
