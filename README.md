@@ -30,8 +30,8 @@
 - git init - иницилизировать в пустой репозиторий
 - git add README.md - добавить файл README.md в репозиторий 
 - git commit -m "first commit" - отправить изменения в репозиторий с кратким описанием "first commit"
-- git remote add origin https://github.com/reinnercool/cpp1901.git - запросить у git hub-а разрешение для вносения изменений
+- git remote add origin https://github.com/reinnercool/cpp1901.git - запросить у github-а разрешение для вносения изменений
 - git push -u origin master - 
 > #### Push aqn exciting repository from the comand line 
 - git remote add origin https://github.com/reinnercool/cpp1901.git
-- git push -u origin master
+- git push -u origin master - отправить изменения на github 
