@@ -1,5 +1,5 @@
 # C++ lessons
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/200px-ISO_C%2B%2B_Logo.svg.png" width="200" height="200" />
 ### description of project:
  *My items starts at 12:00 .I have four parts .I really like C++ courses .*
 
@@ -24,24 +24,14 @@
 | Lesson 16 | Github                                                 | cpp1901/lesson16 | 19.01.2020 |
 | Lesson 17 | Github                                                 | cpp1901/lesson17 |26.01.2020  |
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/200px-ISO_C%2B%2B_Logo.svg.png" width="200" height="200" />
-
-
-
-> #### The quarterly results look great!
->
-> - Revenue was off the chart.
-> - Profits were higher than ever.
->
->  *Everything* is going according to **plan**.
 
 > #### Create a new repository on the command line :
-- echo "# cpp1901" >> README.md
-- git init
-- git add README.md
-- git commit -m "first commit"
-- git remote add origin https://github.com/reinnercool/cpp1901.git
-- git push -u origin master
+- echo "# cpp1901" >> README.md - записать "#cpp1901" в файл README.md
+- git init - иницилизировать в пустой репозиторий
+- git add README.md - добавить файл README.md в репозиторий 
+- git commit -m "first commit" - отправить изменения в репозиторий с кратким описанием "first commit"
+- git remote add origin https://github.com/reinnercool/cpp1901.git - запросить у git hub-а разрешение для вносения изменений
+- git push -u origin master - 
 > #### Push aqn exciting repository from the comand line 
 - git remote add origin https://github.com/reinnercool/cpp1901.git
 - git push -u origin master
