@@ -1,7 +1,7 @@
 # C++ lessons
 
 ### description of project:
- *My items starts at 12:00 .I have four parts .I really like C++ courses . *
+ *My items starts at 12:00 .I have four parts .I really like C++ courses .*
 
 ## Список уроков  :
 - Lesson 1 : 22.09.2019
